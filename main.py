@@ -15,7 +15,7 @@ dataMacs = []
 dataIphones = []
 dataAirpods = []
 
-bot = telebot.TeleBot('6653358072:AAGKgaVjTCa0miW4aWXBxKU57lDRYtLiveg')
+bot = telebot.TeleBot('YOUR BOTFATHER GENERATED TOKEN')
 
 urlMacs = "shop/mac"
 urlIphones = "shop/iphone"

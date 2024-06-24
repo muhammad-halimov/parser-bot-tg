@@ -1,7 +1,8 @@
 # Parser Bot Telegram
 
 # Installing & Running
-- Install Python
+- You must first generate a token in Botfather
+- Install Pythons
 - Create virtual environment (venv):
 ```
 python3 - Linux/macOS
