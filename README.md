@@ -2,7 +2,7 @@
 
 # Installing & Running
 - You must first generate a token in Botfather
-- Install Pythons
+- Install Python
 - Create virtual environment (venv):
 ```
 python3 - Linux/macOS
